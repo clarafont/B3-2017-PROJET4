@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1615.8 1218.9" style="enable-background:new 0 0 1615.8 1218.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#1D1D1B;}
+	.st2{fill:#FFD400;}
+	.st3{fill:url(#);}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:url(#SVGID_2_);}
+	.st6{fill:url(#SVGID_3_);}
+	.st7{fill:url(#SVGID_4_);}
+	.st8{fill:none;stroke:#1D1D1B;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st10{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:19.5515,39.103,19.5515,39.103;}
+	
+		.st11{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:19.5515,39.103,19.5515,39.103,19.5515,39.103;}
+	.st12{fill:none;stroke:#FFB600;stroke-width:17;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<pattern  x="-1947.8" width="276" height="248.2" patternUnits="userSpaceOnUse" id="abeille" viewBox="0 -248.2 276 248.2" style="overflow:visible;">
+	<g>
+		<rect x="0" y="-248.2" class="st0" width="276" height="248.2"/>
+		<g>
+			<rect y="-62" class="st1" width="276" height="62"/>
+		</g>
+		<g>
+			<rect y="-186.1" class="st1" width="276" height="62"/>
+			<rect y="-124.1" class="st2" width="276" height="62"/>
+		</g>
+		<g>
+			<rect y="-248.2" class="st2" width="276" height="62"/>
+		</g>
+	</g>
+</pattern>
+<g id="FOND">
+	<rect class="st2" width="1615.8" height="1218.9"/>
+</g>
+<g id="Calque_1">
+	<g>
+		
+			<ellipse transform="matrix(0.6776 -0.7354 0.7354 0.6776 33.6601 1220.5043)" class="st1" cx="1409" cy="571.9" rx="32.9" ry="32.9"/>
+		<pattern  id="SVGID_1_" xlink:href="#abeille" patternTransform="matrix(0.2698 0.2487 -0.2968 0.3221 -4176.1216 -3468.4971)">
+		</pattern>
+		<path class="st4" d="M1352.1,700.2c-34.3,37.2-95.2,36.7-95.2,36.7s-5.4-60.7,28.9-97.9c34.3-37.2,95.2-36.7,95.2-36.7
+			S1386.3,663,1352.1,700.2z"/>
+		<path class="st1" d="M1484,703.2c21.5,41.5,5.7,92.3,5.7,92.3s-50.5-16.5-72-58c-21.5-41.5-5.7-92.3-5.7-92.3
+			S1462.5,661.7,1484,703.2z"/>
+		<path class="st1" d="M1272,507.9c-43.1-18-92.5,1.8-92.5,1.8s20.6,49,63.7,67c43.1,18,92.5-1.8,92.5-1.8S1315.1,525.9,1272,507.9z
+			"/>
+		<path class="st1" d="M1421.7,534.7c-1.9-1.8-2.4-4.7-0.9-7c9-14.5,9.4-25.3,6.8-30.6c-1.5-3-4.3-4.8-8.2-5.1c-3-0.3-5.3-2.9-5-6
+			c0.3-3,2.9-5.3,6-5c7.8,0.7,13.9,4.6,17.1,11.1c5.2,10.4,2.6,25.5-7.3,41.4c-1.6,2.6-5,3.4-7.6,1.8
+			C1422.2,535.1,1421.9,534.9,1421.7,534.7z"/>
+		<path class="st1" d="M1445,556.2c-0.3-0.2-0.5-0.5-0.7-0.8c-1.8-2.4-1.3-5.9,1.1-7.7c15-11.1,29.8-15,40.7-10.6
+			c6.8,2.7,11.2,8.5,12.5,16.2c0.5,3-1.5,5.9-4.5,6.4c-3,0.5-5.9-1.5-6.4-4.5c-0.6-3.9-2.6-6.5-5.7-7.8c-5.5-2.2-16.2-0.9-30,9.3
+			C1449.9,558.2,1446.9,558,1445,556.2z"/>
+	</g>
+	<g>
+		<g>
+			<path class="st10" d="M-31.3,478.3C-3.3,490,28.3,500.4,61.5,509"/>
+			<path class="st11" d="M80.5,513.7c117.6,27.6,248.3,32.8,296.1-2.6c72-53.3-28-183.3-168-54.3s-118.4,304.8-46,388.5
+				c60,69.5,310,96.5,374,24.5s-32-125.3-76-44.3s11.2,188,80,216.3c97.6,40.2,292,28,336-88s-132.8-100-90.4,20
+				s242.4,201,358.4,90.5c116-110.5,36-258.1-20-262.3s-87,48.7-8,63.8c53.5,10.2,87.4-38.1,103.8-70.3"/>
+			<path class="st9" d="M1228.5,777.8c2.3-5.8,3.5-9.4,3.5-9.4"/>
+		</g>
+	</g>
+</g>
+</svg>
