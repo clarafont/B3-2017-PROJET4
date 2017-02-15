@@ -1,0 +1,46 @@
+h1 {
+  font-family: 'Vibur', cursive;
+  font-size: 80px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 64px;
+}
+
+p {
+  font-family: 'Amatic SC', cursive;
+font-size: 40px;
+display: block;
+text-align: justify;
+max-width: 600px;
+}
+
+li {
+  font-family: 'Amatic SC', cursive;
+font-size: 25px;
+text-align: center;
+
+}
+
+h3 {
+  font-family: 'Vibur', cursive;
+  font-size: 80px;
+text-align: right;
+
+}
+
+h4 {
+  font-family: 'Vibur', cursive;
+  font-size: 80px;
+text-align: center;
+
+}
+
+h5 {
+  font-family: 'Vibur', cursive;
+  font-size: 80px;
+  float: left;
+  margin-left: 100px;
+}

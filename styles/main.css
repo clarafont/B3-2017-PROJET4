@@ -1,0 +1,158 @@
+header {
+  display: block;
+  background-color: rgb(255, 212, 0);
+  min-height: 5vh;
+
+}
+
+.icones {
+  background-color: rgb(255, 182, 0);
+  min-height: 15vh;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+
+.fonds ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+
+body {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+ul {
+  display: inline-flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: space-between;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+.styletextes {
+  text-align: left;
+  padding-left: 150px;
+    padding-right: 150px;
+      padding-bottom: 50px;
+      padding-top: 50px;
+  background-color: rgb(255, 212, 0);
+}
+
+
+li {
+  width: 250px;
+}
+
+.colors li {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: center;
+  height: 150px;
+  width: 150px;
+  border-radius: 8px;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 2em;
+  text-align: center;
+  align-items: center;
+
+
+}
+
+#color-1 {
+  background-color: rgb(255, 212, 0);
+}
+
+#color-2 {
+  background-color: rgb(255, 255, 255);
+}
+
+#color-3 {
+  background-color: rgb(255, 182, 0);
+}
+
+#color-4 {
+  background-color: rgb(29, 29, 27);
+}
+
+
+video {
+  max-width: 1000px;
+  display: block;
+  margin : 0 auto;
+}
+
+
+ol {
+  width: 400px;
+display: block;
+margin: 0 auto;
+  list-style-type: none;
+  border: none;
+}
+
+.titre {
+  background-repeat: no-repeat;
+  max-height: 95vh;
+  background: cover;
+  background-color: rgb(255, 212, 0);
+  text-align: center;
+  margin: 0;
+}
+
+.texte {
+ margin-left: 400px;
+}
+
+.image2 {
+  display: block;
+  margin-left: 250px;
+  max-width: 300px;
+
+}
+.titre2 {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+.titre3 {
+  background-repeat: no-repeat;
+  max-height: 95vh;
+  background: cover;
+background-color: rgb(255, 212, 0);
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.texte3 {
+margin-left: 250px;
+}
+
+
+.fond4{
+  background-repeat: no-repeat;
+  max-height: 95vh;
+  background: cover;
+  background-color: rgb(255, 212, 0);
+  text-align: center;
+  margin-bottom: 50px;
+}
