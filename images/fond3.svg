@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1615.8 1218.9" style="enable-background:new 0 0 1615.8 1218.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFD400;}
+	.st2{fill:none;stroke:#FFB600;stroke-width:17;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:url(#alvéole);}
+	.st4{fill:#1D1D1B;}
+	.st5{fill:url(#);}
+	.st6{fill:none;stroke:#1D1D1B;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st8{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:19.5515,39.103,19.5515,39.103;}
+	
+		.st9{fill:none;stroke:#1D1D1B;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:19.5515,39.103,19.5515,39.103,19.5515,39.103;}
+	.st10{fill:url(#SVGID_1_);}
+</style>
+<pattern  x="-3887.5" width="175.5" height="304" patternUnits="userSpaceOnUse" id="alvéole" viewBox="87.8 -405.4 175.5 304" style="overflow:visible;">
+	<g>
+		<rect x="87.8" y="-405.4" class="st0" width="175.5" height="304"/>
+		<g>
+			<polygon class="st1" points="175.5,-152 175.5,-50.7 263.3,0 351.1,-50.7 351.1,-152 263.3,-202.7 			"/>
+			<polyline class="st2" points="237.6,-40.9 239.6,-39.8 265.1,-25.1 331.2,-63.2 331.2,-139.5 265.1,-177.6 237.8,-161.9 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="0,-152 0,-50.7 87.8,0 175.5,-50.7 175.5,-152 87.8,-202.7 			"/>
+			<polyline class="st2" points="62.1,-40.9 64.1,-39.8 89.6,-25.1 155.7,-63.2 155.7,-139.5 89.6,-177.6 62.3,-161.9 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="87.8,-304 87.8,-202.7 175.5,-152 263.3,-202.7 263.3,-304 175.5,-354.7 			"/>
+			<polyline class="st2" points="149.9,-192.9 151.8,-191.8 177.4,-177.1 243.4,-215.2 243.4,-291.5 177.4,-329.7 150.1,-313.9 			
+				"/>
+		</g>
+		<g>
+			<polygon class="st1" points="175.5,-456.1 175.5,-354.7 263.3,-304 351.1,-354.7 351.1,-456.1 263.3,-506.7 			"/>
+			<polyline class="st2" points="237.6,-345 239.6,-343.8 265.1,-329.1 331.2,-367.2 331.2,-443.5 265.1,-481.7 237.8,-465.9 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="0,-456.1 0,-354.7 87.8,-304 175.5,-354.7 175.5,-456.1 87.8,-506.7 			"/>
+			<polyline class="st2" points="62.1,-345 64.1,-343.8 89.6,-329.1 155.7,-367.2 155.7,-443.5 89.6,-481.7 62.3,-465.9 			"/>
+		</g>
+	</g>
+</pattern>
+<g id="FOND">
+	<rect class="st3" width="1615.8" height="1218.9"/>
+</g>
+<g id="Calque_1">
+</g>
+</svg>
